@@ -1,4 +1,13 @@
 {
-  "main.js": "static/js/main.ef8df7b6.js",
-  "main.js.map": "static/js/main.ef8df7b6.js.map"
+  "files": {
+    "main.js": "/mygym/static/js/main.e0350de3.chunk.js",
+    "main.js.map": "/mygym/static/js/main.e0350de3.chunk.js.map",
+    "runtime-main.js": "/mygym/static/js/runtime-main.d918d9f8.js",
+    "runtime-main.js.map": "/mygym/static/js/runtime-main.d918d9f8.js.map",
+    "static/js/2.fb472296.chunk.js": "/mygym/static/js/2.fb472296.chunk.js",
+    "static/js/2.fb472296.chunk.js.map": "/mygym/static/js/2.fb472296.chunk.js.map",
+    "index.html": "/mygym/index.html",
+    "precache-manifest.f9429140d554a74b43fd67b8cdbc0669.js": "/mygym/precache-manifest.f9429140d554a74b43fd67b8cdbc0669.js",
+    "service-worker.js": "/mygym/service-worker.js"
+  }
 }
