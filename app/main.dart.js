@@ -48836,7 +48836,7 @@ O:function(a,b){return new S.qa(P.aR(["/",new F.Nx(),"/login",new F.Ny()],t.Y,t.
 F.Nz.prototype={
 $1:function(a){var s=a.a
 P.cK(s)
-if(J.bs(s).bV(s,"/app/"))return V.N4(new F.Nw(C.b.bv(s,5)),null,t.z)},
+if(J.bs(s).bV(s,"/auth/"))return V.N4(new F.Nw(C.b.bv(s,6)),null,t.z)},
 $S:315}
 F.Nw.prototype={
 $1:function(a){return new G.kR(this.a,null)},
