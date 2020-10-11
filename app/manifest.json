@@ -1,11 +1,11 @@
 {
-    "name": "mygym_web",
-    "short_name": "mygym_web",
-    "start_url": ".",
+    "name": "Level UP Fitness Center",
+    "short_name": "LevelUP",
+    "start_url": "./auth",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "An app for Level UP Fitness Center clients",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
