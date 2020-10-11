@@ -1,10 +1,10 @@
 {
     "name": "Level UP Fitness Center",
     "short_name": "LevelUP",
-    "start_url": ".",
+    "start_url": "./auth",
     "display": "standalone",
-    "background_color": "#ffff33",
-    "theme_color": "#ffff33",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
     "description": "An app for Level UP Fitness Center clients",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
