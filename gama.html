@@ -26,11 +26,7 @@
   gtag('config', 'G-43TPMKLLW2');
 </script>
 
-<script type="text/javascript">
-    $(window).on('load',function(){
-        $('#app').modal('show');
-    });
-</script>
+
     <div style="position: absolute;top: 0;width: 100%;height: 100px;z-index: -1;"><div data-ride="carousel" data-keyboard="false" data-pause="false" class="carousel slide carousel-fade" id="carousel-1">
     <div role="listbox" class="carousel-inner">
         <div class="carousel-item active" data-interval="3000">
@@ -71,11 +67,21 @@
         </div> 
     </div>  
 </div></div>
-    <div style="position: absolute;top: 0;width: 100%;">
+    <div style="position: absolute;top: 0;width: 100%;"><script type="text/javascript">
+    $(window).on('load',function(){
+        $('.app').modal('show');
+    });
+</script>
         <div class="modal fade border rounded shadow-none" role="dialog" tabindex="-1" id="app" style="opacity: 1;filter: blur(0px);background: rgba(0,0,0,0.64);">
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
-                    <div style="background: #000000;border-style: none;"><button style="padding:10px; color: yellow;" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <div style="background: #000000;border-style: none;"><script type="text/javascript">
+    $(window).on('load',function(){
+        $('#app').modal('show');
+    });
+</script>
+
+<button style="padding:10px; color: yellow;" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
 <iframe src="https://levelupfitnesscenter.gr/app" title="W3Schools Free Online Web Tutorials" width="100%" height="600" style="border:none;"></iframe></div>
                 </div>
             </div>
