@@ -22,8 +22,8 @@
   "id":"/app/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#4285f4",
-  "theme_color": "#4285f4",
-  "version": "0.47",
+  "background_color": "#e1bd49",
+  "theme_color": "#e1bd49",
+  "version": "0.1",
   "gcm_sender_id": "103953800507"
 }
