@@ -24,6 +24,6 @@
   "orientation": "portrait",
   "background_color": "#e1bd49",
   "theme_color": "#e1bd49",
-  "version": "0.2",
+  "version": "0.3",
   "gcm_sender_id": "103953800507"
 }
